@@ -2,7 +2,7 @@ module.exports = {
 
 
     // Uncomment the below line and paste in your API key as an alternative to using an environment variable
-    apiKey: '',
+    apiKey: 'gicSiiVi7ClvNEV9KN100Gxguy9sV6X111N6usQg1wwHD8s110',
 
     batchName: 'NGX Demo Visual Testing',
 
