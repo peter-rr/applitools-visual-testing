@@ -2,9 +2,9 @@ module.exports = {
 
 
     // Uncomment the below line and paste in your API key as an alternative to using an environment variable
-    apiKey: 'gicSiiVi7ClvNEV9KN100Gxguy9sV6X111N6usQg1wwHD8s110',
+    apiKey: 'Zh31rpE6Uec05JPpOHMogYfC6DVDUNhh99Ljn103uw6MZQ110',
 
-    batchName: 'NGX Demo Visual Testing',
+    batchName: 'Playground Demo Visual Testing',
 
     // Select the browsers and devices to run your tests on via the Ultrafast Grid
     // browser: [
