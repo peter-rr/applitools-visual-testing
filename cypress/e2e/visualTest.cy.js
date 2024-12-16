@@ -21,7 +21,7 @@ describe('visual testing', () => {
         cy.contains('Progress Bar').click()
         cy.get('#startButton').click()
         cy.eyesCheckWindow({
-            tag: "Form Layouts",
+            tag: "Progress Bar page",
         })
     }) 
 
